@@ -1,0 +1,1 @@
+A backend activity developed during my period as a trainee at Empresa de Informática Júnior da Bahia (Infojr - UFBA) with express and the Prisma ORM, in addition to using Sqlite as database. The main programming language is TypeScript.
